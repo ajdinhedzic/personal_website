@@ -1,0 +1,40 @@
+body{
+	padding-top: 60px; 
+	height: 100%; 
+	background-color: #303030;
+	color: black;
+}
+
+.hr-style{
+	margin-top: -2%;"
+}
+
+.row a {
+	color: black;
+}
+
+strong {
+	color: #009933;
+}
+
+.row-text-center {
+	text-align: center;
+}
+
+.h1-text-format {
+	font-family: 'Satisfy', cursive; 
+	font-size: 8em; 
+	color: black;
+	text-shadow: 1px 1px #009933;
+}
+
+i:hover{
+	color:#009933;
+}
+
+.green {
+	color: #009933;
+}
+.gray {
+	color: #808080;
+}
