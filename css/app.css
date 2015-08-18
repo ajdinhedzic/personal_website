@@ -1,39 +1,32 @@
+.navbar-fixed-top {
+	border: none;
+	background-color: white;
+}
+
 body{
 	padding-top: 60px; 
 	height: 100%; 
-	background-color: #303030;
-	color: black;
+	background-color: white;
 }
 
-.hr-style{
-	margin-top: -2%;"
-}
-
-.row a {
-	color: black;
-}
-
-strong {
-	color: #009933;
+.container-content {
+	padding-top:5%;
 }
 
 .row-text-center {
 	text-align: center;
+	font-family: 'Raleway', sans-serif;	
+	font-weight: 300;
 }
 
 .h1-text-format {
-	font-family: 'Satisfy', cursive; 
-	font-size: 8em; 
-	color: black;
-	text-shadow: 1px 1px #009933;
+	font-size: 5rem; 
+	font-weight: 100;
+	color: #0000FF;
 }
 
-i:hover{
-	color:#009933;
-}
-
-.green {
-	color: #009933;
+.blue, strong, i:hover{
+	color: #0000FF;
 }
 .gray {
 	color: #808080;
